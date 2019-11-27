@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664691742154",
+    "firebase_url": "https://apberfix.firebaseio.com",
+    "project_id": "apberfix",
+    "storage_bucket": "apberfix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664691742154:android:357a92c44f3ef4da416b33",
+        "android_client_info": {
+          "package_name": "com.example.apber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664691742154-2u0nk0f35nr5182nnlnn02sno8po19kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu0L4GESgUyBDmJwlzk5cds6qlpd9aMs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664691742154-2u0nk0f35nr5182nnlnn02sno8po19kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
