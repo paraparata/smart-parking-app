@@ -1,3 +1,4 @@
+// import 'package:apber/models/Database.dart';
 import 'package:flutter/material.dart';
 
 class Akun extends StatefulWidget {
@@ -100,6 +101,7 @@ class AkunState extends State<Akun> {
               child: RaisedButton(
                 onPressed: () {
                   // logout function
+                  // getSlot();
                 },
                 child: Text('Logout'),
               ),
