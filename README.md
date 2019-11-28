@@ -30,3 +30,4 @@ samples, guidance on mobile development, and a full API reference.
 - [Other Good Flutter CRUD 2](https://heartbeat.fritz.ai/using-firebases-cloud-firestore-in-flutter-79a79ec5303a)
 - [Get data in flutter firestore](https://medium.com/@superman199323/retrieve-flutter-and-cloud-firestore-data-91f011bbec6d)
 - [Setup firebase flutter](https://firebase.google.com/docs/flutter/setup?platform=android)
+- [firestore flutter fix](https://www.youtube.com/watch?v=JIJuzp-AOmk)
